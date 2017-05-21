@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/turnipjs/multris/issues"
   },
-  "homepage": "https://github.com/turnipjs/multris#readme"
+  "homepage": "https://github.com/turnipjs/multris#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
