@@ -1,0 +1,24 @@
+{
+  "name": "multris",
+  "version": "0.0.1",
+  "description": "online multiplayer tetris co-op",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/turnipjs/multris.git"
+  },
+  "author": "Charles Moonen (turnipjs)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turnipjs/multris/issues"
+  },
+  "homepage": "https://github.com/turnipjs/multris#readme"
+}
